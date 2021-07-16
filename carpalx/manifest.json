@@ -18,7 +18,7 @@ limitations under the License.
   "manifest_version": 2,
   "description": "Carpalx keyboard",
   "permissions": [
-    "input",
+    "input"
   ],
   "input_components": [
     {
